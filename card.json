@@ -1,0 +1,6 @@
+{
+  "C_0": {
+    name: "PayPayカード",
+    chargable_bank: [{id:"B_0", return_rate:0}],
+  }
+}
