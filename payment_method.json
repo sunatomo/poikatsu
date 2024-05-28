@@ -1,0 +1,21 @@
+{
+  "P_0": {
+    name:"Suica",
+    chargable_source: {
+      "C_0": {return_rate:0}
+    },
+    destination: {
+      "":{return_rate:0},
+      "D_0":{return_rate:0.05},
+    }
+  },
+  "P_1": {
+    name:"PayPay",
+    chargable_source: {
+      "C_0": {return_rate:0}
+    },
+    destination: {
+      "":{return_rate:1.5},
+    }
+  },
+}
